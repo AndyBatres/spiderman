@@ -9,6 +9,7 @@
 }
 .orden{
     display: flex;
+    padding: 30px;
 }
 .info{
  width: 50%;
