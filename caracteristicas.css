@@ -12,3 +12,9 @@ h2{
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.color{
+    background-color: burlywood;
+}
+.matgen{
+    margin: 40px;
+}
