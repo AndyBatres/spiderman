@@ -11,10 +11,10 @@
     display: flex;
     padding: 30px;
 }
-.info{
+.info p{
  width: 50%;
  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
- font-size: 15px;
+ font-size: 20px;
 }
 .imagen{
     width: 50%;
