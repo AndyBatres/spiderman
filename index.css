@@ -7,3 +7,12 @@
     height:100%;
     color: white;
 }
+.orden{
+    display: flex;
+}
+.info{
+ width: 50%;
+}
+.imagen{
+    width: 50%;
+}
