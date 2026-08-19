@@ -7,7 +7,7 @@
     height:100%;
     color: white;
 }
-.orden{
+#orden{
     display: flex;
     padding: 30px;
 }
