@@ -13,7 +13,10 @@
 }
 .info{
  width: 50%;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 15px;
 }
 .imagen{
     width: 50%;
+    margin-left: 30px;
 }
